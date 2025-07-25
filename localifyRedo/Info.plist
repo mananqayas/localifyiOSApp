@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCameraUsageDescription</key>
+	<string>We need it</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This app needs access to photo library</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Fonts/Playball-Regular.ttf</string>
+		<string>Fonts/Poppins-ExtraBold.ttf</string>
+		<string>Fonts/Poppins-ExtraLight.ttf</string>
+		<string>Fonts/Poppins-Italic.ttf</string>
+		<string>Fonts/Poppins-Light.ttf</string>
+		<string>Fonts/Poppins-Medium.ttf</string>
+		<string>Fonts/Poppins-Regular.ttf</string>
+		<string>Fonts/Poppins-SemiBold.ttf</string>
+		<string>Fonts/Poppins-Bold.ttf</string>
+	</array>
+</dict>
+</plist>

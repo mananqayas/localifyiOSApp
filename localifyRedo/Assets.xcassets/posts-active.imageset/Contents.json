@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "posts-active.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
