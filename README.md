@@ -1,4 +1,4 @@
-# Localify Redo
+# Localify
 
 A modern iOS application for local business management and networking, built with SwiftUI.
 
